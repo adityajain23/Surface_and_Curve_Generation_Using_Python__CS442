@@ -1,2 +1,0 @@
-# Surface_and_Curve_Generation_Using_Python__CS442
-
